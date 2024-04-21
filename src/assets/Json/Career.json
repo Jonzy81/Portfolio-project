@@ -1,0 +1,41 @@
+{
+    "education": [
+        {
+            "name": "Chas academy",
+            "date": "2023-2025",
+            "description": "Fullstack .NET education fulltime studies"
+        },
+        {
+            "name": "JTH",
+            "date": "2009-2013",
+            "description": "Building design with architecture."
+        },
+        {
+            "name": "St:Eriks gymnasium",
+            "date": "1997-2000",
+            "description": "Electrician program"
+        }
+    ],
+    "work_experience": [
+        {
+            "name": "Bravida",
+            "date": "2023-2024",
+            "description": "Fulltime electrician"
+        },
+        {
+            "name": "Assemblin EL",
+            "date": "2005-2023",
+            "description": "Fulltime electrician"
+        },
+        {
+            "name": "A.T El-Service AB",
+            "date": "2003-2005",
+            "description": "Fulltime electrician"
+        },
+        {
+            "name": "SEL Installation AB",
+            "date": "2000-2003",
+            "description": "Fulltime electrician"
+        }
+    ]
+}
